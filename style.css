@@ -1,0 +1,25 @@
+body {
+    font-size: 20px;
+    font-family:'Times New Roman', Helvetica, sans-serif;
+    background-color: wheat;
+    text-align: center;
+}
+
+h1 {
+    color: #b86c0f;
+
+}
+
+.food {
+color: rgb(26, 28, 83);
+}
+
+
+.special {
+    color: #b86c0f;
+}
+
+
+#drug {
+    color: wheat;
+}
