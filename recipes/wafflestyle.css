@@ -1,0 +1,22 @@
+body {
+    background-color: bisque;
+    text-align: justify;
+    text-align: center;
+    font-size: 20px;
+    font-family: "Times New Roman", Helvetica, sans-serif;
+}
+
+.list {
+ list-style: inside;
+}
+
+h3, h2{
+    text-align: center;
+    margin-left: 60px;
+    color: brown;
+}
+
+.home {
+    font-weight: 800;
+    color: brown;
+}
